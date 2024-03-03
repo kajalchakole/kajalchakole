@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kajalchakole
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning react and microservices
+- 🌱 I’m currently learning ReactNative
 - 💞️ I’m looking to collaborate on interesting project ideas on any domain
 - 📫 How to reach me - kajalchakole@yahoo.co.in
 
